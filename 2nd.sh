@@ -4,3 +4,5 @@ echo "Input number 2:"
 read two
 sum=$((one+two))
 echo "Sum of two numbers is $sum"
+
+
